@@ -5,7 +5,7 @@
 
 ## INSTALL (port 80/443)
 
-注意: このリポジトリは[Dockerファイル](https://github.com/internship2016/django-uwsgi-nginx)と対になっています。
+注意: このリポジトリは[Dockerファイル](https://github.com/Sovol2018/django-uwsgi-nginx)と対になっています。
 
     $ git clone https://github.com/internship2016/django-uwsgi-nginx.git
     $ ( cd django-uwsgi-nginx && docker build -t webapp . )
